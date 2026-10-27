@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tới Trưa - Đặt Cơm Trưa Thông Minh",
+  "description": "Ứng dụng đặt trước cơm trưa văn phòng thông minh: thực đơn công bố trước 3 ngày, giao đúng giờ 09:00-11:30, gói suất ăn thành viên tiết kiệm và quản lý đơn tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
